@@ -1,0 +1,43 @@
+<style>
+
+h1{
+  color:blue;
+  text-align: center;
+  font-size: 36px;
+}
+ 
+  #doggy-g {
+    display: block;
+    margin: 0 Auto;
+}
+   #start-line {
+  font-size: 24px;
+     color:green;
+      text-align: Justify;
+}
+   h2 {
+  font-size: 36px;
+     color:purple;
+     background-color:grey;
+      text-align: center;
+}
+     .game1 {
+  font-size: 36px;
+     color:red;  
+}
+  h3 {
+  font-size: 36px;
+     color:brown;
+     text-align: center;
+}
+  .billie {
+  font-size: 36px;
+     color:yellow;
+}
+  #final-line {
+  font-size: 36px;
+     color:black;
+}
+  body {
+    background-color:grey;
+  }
